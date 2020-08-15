@@ -1,0 +1,15 @@
+training dataset link of drive:
+
+https://drive.google.com/file/d/1GQDHAFEEhyrAQg82wSfsBkBZrrIKjR9P/view?usp=sharing
+
+testing data set link of drive:
+
+https://drive.google.com/file/d/1Rh9oNWhFx6YS0r_5CuRDB1l-5W5Vw9g_/view?usp=sharing
+
+GRU model link :
+
+https://drive.google.com/file/d/1eZ8eRFhKOKZ7-jyK4BVLUDG2E4tUfzup/view?usp=sharing
+
+LSTM model link:
+
+https://drive.google.com/file/d/1q6gM8oNUQKc_waQ3PQpYrc3xtvJ6bIYi/view?usp=sharing
